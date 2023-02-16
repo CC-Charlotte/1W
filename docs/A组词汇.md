@@ -779,7 +779,7 @@ vacation [vəˈkeiʃən, veiˈkeiʃ(ə)n] n 假期
 -  < ify--动词后缀 >
 
 **annul** [əˈnʌl] v.取消，废除
--  <an- 加强 nul=null>
+-  < an- 加强 nul=null>
 -  annual a. 一年一度的
 
 # annotate v. 注释，评注
